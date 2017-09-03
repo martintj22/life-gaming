@@ -39,15 +39,15 @@ _____________________________________________________________
 ** Shop 02 [Civil Shop] [Tøj - Summer/Beach] **
 
 T-shirts/Uniformer:
-Summer Clothes (Sky) - 500
-Summer CLothes (Red) - 500
-Vacation Shirt - 600
-Sport Clothes (Beach) - 800
-Sport Clothes (Orange) - 1000
+[U_C_Man_casual_4_F] Summer Clothes (Sky) - 500
+[U_C_Man_casual_5_F] Summer CLothes (Red) - 500
+[vacationshirt_uni] Vacation Shirt - 600
+[U_C_man_sport_1_F] Sport Clothes (Beach) - 800
+[U_C_man_sport_2_F] Sport Clothes (Orange) - 1000
 
 Backpacks:
-A3L 'Murica Backpack - 800
-A3L Britain Bergen - 1200
+[] A3L 'Murica Backpack - 800
+[] A3L Britain Bergen - 1200
 
 Headgear:
 Bandana (Surfer) - 150
