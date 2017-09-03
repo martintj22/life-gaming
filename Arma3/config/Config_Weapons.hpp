@@ -596,13 +596,15 @@ class WeaponShops {
 			{ "RH_p226", "", 50, 25, "call life_coplevel >= 1" },
 			{ "RH_m9", "", 50, 25, "call life_coplevel >= 1" },
 			{ "tf_anprc152", "", 500, 150, "" },
+		        { "hlc_smg_mp5a4", "", 500, 150, "" },
 			{ "RH_fn57_t", "", 50, 25, "call life_coplevel >= 1" }			
         };
 
         mags[] = {
-	    { "RH_15Rnd_9x19_M9", "", 100, 50, "call life_coplevel >= 1" },
-	    { "RH_15Rnd_9x19_SIG", "", 100, 50, "call life_coplevel >= 1" },
-	    { "RH_20Rnd_57x28_FN", "", 100, 50, "call life_coplevel >= 1" }
+	    { "RH_15Rnd_9x19_M9", "", 50, 25, "call life_coplevel >= 1" },
+	    { "RH_15Rnd_9x19_SIG", "", 50, 25, "call life_coplevel >= 1" },
+	    { "hlc_30Rnd_9x19_B_MP5", "", 50, 25, "call life_coplevel >= 1" },
+	    { "RH_20Rnd_57x28_FN", "", 50, 25, "call life_coplevel >= 1" }
             
         };
 
@@ -619,6 +621,8 @@ class WeaponShops {
 	    { "optic_SOS", "", 1500, 1050, "call life_coplevel >= 5" },
             { "optic_AMS", "", 1500, 1050, "call life_coplevel >= 9" },
             { "optic_MRCO", "", 1500, 1050, "call life_coplevel >= 9" },
+	    { "FHQ_optic_AC11704", "", 250, 100, "call life_coplevel >= 9" },
+	    { "muzzle_snds_L", "", 250, 100, "call life_coplevel >= 9" },
             { "muzzle_snds_H", "", 250, 100, "call life_coplevel >= 3" }
         };
     };
