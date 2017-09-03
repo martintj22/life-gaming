@@ -59,7 +59,7 @@ class Clothing {
     };
 */
 
------------------------------------------------------------------------------------------------------------------
+/*-----------------------------------------------------------------------------------------------------------------*/
 
 	
 	
@@ -169,18 +169,10 @@ class Clothing {
 -----Billig tøj shop slutter her------
 */
 
-	
-	
-	
-
-	
-	
-	
-/*
+	/*
 -----Summer tøj starter her------
 */	
-*		
-    class Clothing { /*Butiks type */
+
     class Summer { /*Navn på npc */
     title = "Summer"; /* Shop tittle */ 
     conditions = ""; /* license eller level*/
@@ -226,19 +218,144 @@ class Clothing {
 	    
     }; /*----- Summer tøj slutter her ------*/
 
+	
+
+/*----- Design outfits ------*/
+
+    class design {
+        title = "design";
+        conditions = "";
+        side = "civ";
+        uniforms[] = {
+            { "NONE", $STR_C_Remove_uniforms, 0, "" },
+            { "A3LKhaledShirt", "", 500, "" },
+			{ "A3L_CivShirtNikeCamo", "", 500, "" },
+            { "A3L_CivShirtOhboy", "", 700, "" },
+            { "A3L_CivShirtNikeDoit", "", 800, "" },
+            { "cg_evolution1", "", 800, "" },
+            { "A3LRainbowShirt", "", 800, "" },
+            { "A3L_PinkPoloShirt", "", 1300, "" },
+            { "A3LWhiteFloral", "", 1300, "" },
+            { "A3LOGFloralShirt", "", 1500, "" } //Apex DLC
+        };
+        headgear[] = {
+            { "NONE", $STR_C_Remove_headgear, 0, "" },
+			{ "TRYK_H_woolhat_cu", "", 600, "" },
+			{ "H_Cap_surfer", "", 600, "" },
+			{ "Nike_Cap_Blk", "", 600, "" },
+			{ "Nike_Cap_Grey", "", 600, "" },
+			{ "Nike_Cap_Orange", "", 600, "" },
+			{ "boonie_black100", "", 800, "" },
+			{ "boonie_floral1", "", 1200, "" },
+            { "A3L_gangster_hat", "", 2000, "" }
+        };
+        goggles[] = {
+            { "NONE", $STR_C_Remove_goggles, 0, "" },
+            { "G_Aviator", "", 500, "" },
+			{ "G_Bandanna_blk", "", 600, "" },
+            { "G_Bandanna_tan", "", 800, "" },
+            { "G_Bandanna_shades", "", 1000, "" },
+            { "G_Sport_Greenblack", "", 1000, "" }
+        };
+        vests[] = {
+            { "NONE", $STR_C_Remove_vests, 0, "" }
+        };
+        backpacks[] = {
+            { "NONE", $STR_C_Remove_backpacks, 0, "" },
+            { "O_HMG_01_high_weapon_F", "", 1000, "" },
+			{ "Iscarryall_black", "", 2000, "" },
+            { "SERT_Blackback", "", 1600, "" }
+        };
+    };
 
 	
 	
-		/*
------ ------
-*/
+	/*----- Modern tøj  ------*/
+	 class modern {
+        title = "modern";
+        conditions = "";
+        side = "civ";
+        uniforms[] = {
+            { "NONE", $STR_C_Remove_uniforms, 0, "" },
+            { "cg_bb1", "", 500, "" },
+			{ "cg_gamerepeat1", "", 500, "" },
+            { "CG_illuminati1", "", 700, "" },
+            { "cg_gameover1", "", 800, "" },
+            { "cg_beats1", "", 800, "" },
+            { "cg_hearts1", "", 800, "" },
+            { "A3L_Dude_Outfit", "", 1300, "" },
+            { "EF_M_jkt2_2", "", 1500, "" } //Apex DLC
+        };
+        headgear[] = {
+            { "NONE", $STR_C_Remove_headgear, 0, "" },
+			{ "TRYK_R_CAP_BKL", "", 600, "" },
+			{ "Polo_Cap_Blk", "", 600, "" },
+			{ "Polo_Cap_Navy", "", 600, "" },
+			{ "Polo_Cap_Tan", "", 600, "" },
+			{ "CID_Cap_Tan", "", 600, "" },
+			{ "Kio_Capital_Hat", "", 800, "" },
+			{ "woolhat_louisv", "", 1200, "" }
+        };
+        goggles[] = {
+            { "NONE", $STR_C_Remove_goggles, 0, "" },
+            { "EF_FG1", "", 500, "" },
+			{ "EF_FG21", "", 600, "" },
+            { "G_Sport_BlackYellow", "", 800, "" },
+            { "G_Sport_Red", "", 1000, "" }
+        };
+        vests[] = {
+            { "NONE", $STR_C_Remove_vests, 0, "" }
+        };
+        backpacks[] = {
+            { "NONE", $STR_C_Remove_backpacks, 0, "" },
+            { "TAC_MTAP_CY", "", 1000, "" },
+			{ "TRYK_B_Kitbag_blk", "", 2000, "" },
+			{ "TRYK_B_Kitbag_blk", "", 2000, "" },
+            { "Iscarryall_comic", "", 1600, "" }
+        };
+    };
+	/*----- modern tøj slut  ------*/
+
+	
+	/*----- Special tøj slut  ------*/
+	 class special {
+        title = "special";
+        conditions = "";
+        side = "civ";
+        uniforms[] = {
+            { "NONE", $STR_C_Remove_uniforms, 0, "" },
+            { "taxi_uni", "", 500, "" },
+			{ "A3L_Farmer_Outfit", "", 500, "" },
+            { "A3L_Worker_Outfit", "", 1500, "" } //Apex DLC
+        };
+        headgear[] = {
+            { "NONE", $STR_C_Remove_headgear, 0, "" },
+			{ "TRYK_ESS_CAP", "", 600, "" }
+	    };
+        goggles[] = {
+            { "NONE", $STR_C_Remove_goggles, 0, "" },
+			{ "Masque_Chirurgical", "", 600, "" },
+			{ "G_Combat", "", 600, "" },
+			{ "G_Combat_Goggles_tna_F", "", 600, "" }
+
+        };
+        vests[] = {
+            { "NONE", $STR_C_Remove_vests, 0, "" }
+        };
+        backpacks[] = {
+            { "NONE", $STR_C_Remove_backpacks, 0, "" },
+      		{ "TRYK_B_tube_blk", "", 600, "" },
+			{ "TRYK_Headphone_nv", "", 600, "" },
+			{ "H_Cap_marshal", "", 600, "" },
+			{ "TRYK_Winter_pack", "", 600, "" }
+        };
+    };
+	/*----- Special tøj slut  ------*/
+
 	
 	
 	
-		/*
------Politi starter her ------
-*/
-		
+/*-----Politi starter her ------*/		
     class cop {
         title = "STR_Shops_C_Police";
         conditions = "";
@@ -251,8 +368,8 @@ class Clothing {
 	     { "A3L_EC_SOCPOF", "Police", 25, "call life_coplevel >= 7" },
 	     { "A3L_EC_SOCPSER", "Police", 25, "call life_coplevel >= 1" },
 	     { "EF_HMP_2", "Police", 25, "" }
-
         };
+		
         headgear[] = {
             { "NONE", $STR_C_Remove_headgear, 0, "" },
             { "H_Cap_police", "", 25, "call life_coplevel >= 1" },
@@ -275,14 +392,16 @@ class Clothing {
             { "G_Lady_Dark", "", 100, "" },
             { "G_Lady_Blue", "", 100, "" }
         };
+		
         vests[] = {
-            { "NONE", $STR_C_Remove_vests, 0, "" }, 
-            { "V_Rangemaster_belt", "", 100, "" },
+        { "NONE", $STR_C_Remove_vests, 0, "" }, 
+        { "V_Rangemaster_belt", "", 100, "" },
 	    { "V_TacVest_blk_POLICE", "", 100, "call life_coplevel >= 2" },
 	    { "CID_Vest_Fix", "", 100, "call life_coplevel >= 1" },
 	    { "V_PlateCarrier1_blk", "", 100, "call life_coplevel >= 4" },
 	    { "A3L_EC_HWP_VEST", "", 100, "call life_coplevel >= 1" }
         };
+		
         backpacks[] = {
             { "NONE", $STR_C_Remove_backpacks, 0, "" },
             { "B_AssaultPack_cbr", "", 100, "" },
