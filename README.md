@@ -1,4 +1,4 @@
-<h1> Life-Gaming altis beta v_2.0 </h1>
+<h1> Life-Gaming altis beta v_2.0 plan </h1>
 
 
 <p> 
