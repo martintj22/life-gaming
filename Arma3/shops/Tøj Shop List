@@ -46,18 +46,18 @@ T-shirts/Uniformer:
 [U_C_man_sport_2_F] Sport Clothes (Orange) - 1000
 
 Backpacks:
-[] A3L 'Murica Backpack - 800
-[] A3L Britain Bergen - 1200
+[A3L_BergenMurica] A3L 'Murica Backpack - 800
+[A3L_Britianback] A3L Britain Bergen - 1200
 
 Headgear:
-Bandana (Surfer) - 150
-Bandana (Surfer, Black) - 150
-Bandana (Surfer, Green) - 150
-Cap (Blue) - 200
-Booniehat [AAF] - 400
-Spinning Hat - 500
-Skate Helmet - 700
-Straw Hat - 800
+[H_Bandanna_surfer] Bandana (Surfer) - 150
+[H_Bandanna_gry] Bandana (Surfer, Black) - 150
+[H_Bandanna_gm] Bandana (Surfer, Green) - 150
+[H_Cap_tan_blu] Cap (Blue) - 200
+[Bravo93_BoonieHat_DPM] Booniehat [AAF] - 400
+[Kio_spinning_Hat] Spinning Hat - 500
+[A3L_SkateHelmet_green] Skate Helmet - 700
+[H_StrawHat] Straw Hat - 800
 
 Facewear:
 [G_Shades_Red] Shades (Red) - 300
@@ -69,20 +69,20 @@ _____________________________________________________________
 ** Shop 03 [Civil Shop] [Tøj - Designs] **
 
 T-shirts/Uniformer:
-A3L Khaled Shirt - 500
-A3L Nike Camo Shirt - 500
-A3L Oh Boy Shirt - 700
-A3L Nike Do It Shirt - 800
-CG Evolution - 800
-A3L Rainbow Shirt - 800
-A3L Pink Polo Shirt - 1300
-A3L White Floral Shirt - 1300
-A3L OG Floral Shirt - 1500
+[A3LKhaledShirt] A3L Khaled Shirt - 500
+[A3L_CivShirtNikeCamo]A3L Nike Camo Shirt - 500
+[A3L_CivShirtOhboy] A3L Oh Boy Shirt - 700
+[A3L_CivShirtNikeDoit] A3L Nike Do It Shirt - 800
+[cg_evolution1] CG Evolution - 800
+[A3LRainbowShirt] A3L Rainbow Shirt - 800
+[A3L_PinkPoloShirt] A3L Pink Polo Shirt - 1300
+[A3LWhiteFloral] A3L White Floral Shirt - 1300
+[A3LOGFloralShirt] A3L OG Floral Shirt - 1500
 
 Backpacks:
-Dismantled Autonomous MG (CSAT) - 1000
-Sert Black Bergen - 1600
-LS Carryall Black - 2000
+[O_HMG_01_high_weapon_F] Dismantled Autonomous MG (CSAT) - 1000
+[SERT_Blackback] Sert Black Bergen - 1600
+[Iscarryall_black] LS Carryall Black - 2000
 
 Headgear:
 TRYK Woolcap(tan) - 300
