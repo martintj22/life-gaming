@@ -85,14 +85,14 @@ Backpacks:
 [Iscarryall_black] LS Carryall Black - 2000
 
 Headgear:
-TRYK Woolcap(tan) - 300
-Cap (Surfer) - 600
-Nike Cap (Black) - 600
-Nike Cap (Grey) - 600
-Nike Cap (Orange) - 600
-LS Boonie (Black 100) - 800
-LS Boonie (Floral 1) - 1200
-A3L Gangster Hat - 2000
+[TRYK_H_woolhat_cu] TRYK Woolcap(tan) - 300
+[H_Cap_surfer] Cap (Surfer) - 600
+[Nike_Cap_Blk] Nike Cap (Black) - 600
+[Nike_Cap_Grey] Nike Cap (Grey) - 600
+[Nike_Cap_Orange] Nike Cap (Orange) - 600
+[boonie_black100] LS Boonie (Black 100) - 800
+[boonie_floral1] LS Boonie (Floral 1) - 1200
+[A3L_gangster_hat] A3L Gangster Hat - 2000
 
 Facewear:
 [G_Aviator] Aviator Glasses - 500
@@ -106,19 +106,19 @@ _________________________________________________________
 ** Shop 04 [Civil Shop] [Tøj - Designs 2] **
 
 T-shirts/Uniformer:
-CG BB - 700
-CG Game Repeat - 700
-CG Illuminati - 800
-CG Game Over - 800
-CG Beats - 900
-CG Hearts - 1000
-A3L Dude Outfit - 1300
-EF Male Jacket 2 - 1400
+[cg_bb1] CG BB - 700
+[cg_gamerepeat1] CG Game Repeat - 700
+[CG_illuminati1] CG Illuminati - 800
+[cg_gameover1] CG Game Over - 800
+[cg_beats1] CG Beats - 900
+[cg_hearts1] CG Hearts - 1000
+[A3L_Dude_Outfit] A3L Dude Outfit - 1300
+[EF_M_jkt2_2] EF Male Jacket 2 - 1400
 
 Backpacks:
-TAC MTAP -Carrying(BK) - 900
-TRYK KitBag [blk] - 1100
-TRYK CamelPack(BLK) - 1500
+[TAC_MTAP_CY] TAC MTAP -Carrying(BK) - 900
+[TRYK_B_Kitbag_blk] TRYK KitBag [blk] - 1100
+ TRYK CamelPack(BLK) - 1500
 LS Carryall - 2600
 
 Headgear:
