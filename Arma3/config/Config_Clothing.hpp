@@ -178,48 +178,48 @@ Billig tøj shop civil starter her
 -----Summer tøj starter her------
 */	
 
-    class Summer { /*Navn på npc */
-    title = "Summer"; /* Shop tittle */ 
-    conditions = ""; /* license eller level*/
-    side = "civ"; /*Civl, politi eler medic */
+   	 class Summer { /*Navn på npc */
+ 	 title = "Summer"; /* Shop tittle */ 
+    	 conditions = ""; /* license eller level*/
+         side = "civ"; /*Civl, politi eler medic */
     	    
-    uniforms[] = {
-    { "NONE", $STR_C_Remove_uniforms, 0, "" },
-    { "U_C_Man_casual_4_F", "", 500, "" },
-    { "U_C_Man_casual_5_F", "", 500, "" },
-    { "vacationshirt_uni", "", 600, "" },
-    { "U_C_man_sport_1_F", "", 800, "" },
-    { "U_C_man_sport_2_F", "", 1000, "" } 
-    };
+	 uniforms[] = {
+	 { "NONE", $STR_C_Remove_uniforms, 0, "" },
+	 { "U_C_Man_casual_4_F", "", 500, "" },
+	 { "U_C_Man_casual_5_F", "", 500, "" },
+	 { "vacationshirt_uni", "", 600, "" },
+	 { "U_C_man_sport_1_F", "", 800, "" },
+	 { "U_C_man_sport_2_F", "", 1000, "" } 
+	 };
 	    
-    headgear[] = {
-    { "NONE", $STR_C_Remove_headgear, 0, "" },
-    { "H_Bandanna_surfer", "", 400, "" },
-    { "H_Bandanna_gry", "", 425, "" },
-    { "H_Bandanna_gm", "", 425, "" },
-    { "H_Cap_tan_blu", "", 425, "" },
-    { "Bravo93_BoonieHat_DPM", "", 425, "" },
-    { "Kio_spinning_Hat", "", 425, "" },
-    { "A3L_SkateHelmet_green", "", 800, "" },
-    { "H_StrawHat", "", 900, "" }
-    };
+	 headgear[] = {
+	 { "NONE", $STR_C_Remove_headgear, 0, "" },
+	 { "H_Bandanna_surfer", "", 400, "" },
+	 { "H_Bandanna_gry", "", 425, "" },
+	 { "H_Bandanna_gm", "", 425, "" },
+	 { "H_Cap_tan_blu", "", 425, "" },
+	 { "Bravo93_BoonieHat_DPM", "", 425, "" },
+	 { "Kio_spinning_Hat", "", 425, "" },
+	 { "A3L_SkateHelmet_green", "", 800, "" },
+	 { "H_StrawHat", "", 900, "" }
+	  };
 	    
-    goggles[] = {
-    { "NONE", $STR_C_Remove_goggles, 0, "" },
-    { "G_Shades_Red", "", 300, "" },
-    { "EF_FRG2", "", 600, "" },
-    { "EF_FRG22", "", 650, "" }
-    };
+    	goggles[] = {
+   	 { "NONE", $STR_C_Remove_goggles, 0, "" },
+   	 { "G_Shades_Red", "", 300, "" },
+   	 { "EF_FRG2", "", 600, "" },
+    	 { "EF_FRG22", "", 650, "" }
+   	 };
 	    
-    vests[] = {
-    { "NONE", $STR_C_Remove_vests, 0, "" }
-    };
+    	vests[] = {
+    	{ "NONE", $STR_C_Remove_vests, 0, "" }
+    	};
 	    
-    backpacks[] = {
-    { "NONE", $STR_C_Remove_backpacks, 0, "" },
-    { "A3L_BergenMurica", "", 800, "" },
-    { "A3L_Britianback", "", 1200, "" }
-    };
+    	backpacks[] = {
+   	 { "NONE", $STR_C_Remove_backpacks, 0, "" },
+    	 { "A3L_BergenMurica", "", 800, "" },
+   	 { "A3L_Britianback", "", 1200, "" }
+   	 };
 	    
     }; /*----- Summer tøj slutter her ------*/
 
@@ -227,55 +227,55 @@ Billig tøj shop civil starter her
 
 /*----- Design outfits ------*/
 
-    class design {
-    title = "design";
-    conditions = "";
-    side = "civ";
+   	class design {
+    	title = "design";
+    	conditions = "";
+    	side = "civ";
 	    
-    uniforms[] = {
-    { "NONE", $STR_C_Remove_uniforms, 0, "" },
-    { "A3LKhaledShirt", "", 500, "" },
-    { "A3L_CivShirtNikeCamo", "", 500, "" },
-    { "A3L_CivShirtOhboy", "", 700, "" },
-    { "A3L_CivShirtNikeDoit", "", 800, "" },
-    { "cg_evolution1", "", 800, "" },
-    { "A3LRainbowShirt", "", 800, "" },
-    { "A3L_PinkPoloShirt", "", 1300, "" },
-    { "A3LWhiteFloral", "", 1300, "" },
-    { "A3LOGFloralShirt", "", 1500, "" } //Apex DLC
-    };
+   	uniforms[] = {
+    	{ "NONE", $STR_C_Remove_uniforms, 0, "" },
+    	{ "A3LKhaledShirt", "", 500, "" },
+    	{ "A3L_CivShirtNikeCamo", "", 500, "" },
+    	{ "A3L_CivShirtOhboy", "", 700, "" },
+    	{ "A3L_CivShirtNikeDoit", "", 800, "" },
+    	{ "cg_evolution1", "", 800, "" },
+    	{ "A3LRainbowShirt", "", 800, "" },
+    	{ "A3L_PinkPoloShirt", "", 1300, "" },
+    	{ "A3LWhiteFloral", "", 1300, "" },
+    	{ "A3LOGFloralShirt", "", 1500, "" } //Apex DLC
+    	};
 	    
-    headgear[] = {
-    { "NONE", $STR_C_Remove_headgear, 0, "" },
-    { "TRYK_H_woolhat_cu", "", 600, "" },
-    { "H_Cap_surfer", "", 600, "" },
-    { "Nike_Cap_Blk", "", 600, "" },
-    { "Nike_Cap_Grey", "", 600, "" },
-    { "Nike_Cap_Orange", "", 600, "" },
-    { "boonie_black100", "", 800, "" },
-    { "boonie_floral1", "", 1200, "" },
-    { "A3L_gangster_hat", "", 2000, "" }
-    };
+    	headgear[] = {
+    	{ "NONE", $STR_C_Remove_headgear, 0, "" },
+    	{ "TRYK_H_woolhat_cu", "", 600, "" },
+    	{ "H_Cap_surfer", "", 600, "" },
+    	{ "Nike_Cap_Blk", "", 600, "" },
+    	{ "Nike_Cap_Grey", "", 600, "" },
+    	{ "Nike_Cap_Orange", "", 600, "" },
+    	{ "boonie_black100", "", 800, "" },
+    	{ "boonie_floral1", "", 1200, "" },
+    	{ "A3L_gangster_hat", "", 2000, "" }
+    	};
         
-    goggles[] = {
-    { "NONE", $STR_C_Remove_goggles, 0, "" },
-    { "G_Aviator", "", 500, "" },
-    { "G_Bandanna_blk", "", 600, "" },
-    { "G_Bandanna_tan", "", 800, "" },
-    { "G_Bandanna_shades", "", 1000, "" },
-    { "G_Sport_Greenblack", "", 1000, "" }
-    };
+    	goggles[] = {
+    	{ "NONE", $STR_C_Remove_goggles, 0, "" },
+    	{ "G_Aviator", "", 500, "" },
+    	{ "G_Bandanna_blk", "", 600, "" },
+    	{ "G_Bandanna_tan", "", 800, "" },
+    	{ "G_Bandanna_shades", "", 1000, "" },
+    	{ "G_Sport_Greenblack", "", 1000, "" }
+   	 };
 	    
-    vests[] = {
-            { "NONE", $STR_C_Remove_vests, 0, "" }
-    };
+    	vests[] = {
+        { "NONE", $STR_C_Remove_vests, 0, "" }
+    	};
 	    
 	    
         backpacks[] = {
-     { "NONE", $STR_C_Remove_backpacks, 0, "" },
-     { "O_HMG_01_high_weapon_F", "", 1000, "" },
-     { "Iscarryall_black", "", 2000, "" },
-     { "SERT_Blackback", "", 1600, "" }
+    	{ "NONE", $STR_C_Remove_backpacks, 0, "" },
+    	{ "O_HMG_01_high_weapon_F", "", 1000, "" },
+     	{ "Iscarryall_black", "", 2000, "" },
+     	{ "SERT_Blackback", "", 1600, "" }
         };
     };
 
@@ -286,7 +286,8 @@ Billig tøj shop civil starter her
         title = "modern";
         conditions = "";
         side = "civ";
-        uniforms[] = {
+        
+	uniforms[] = {
        { "NONE", $STR_C_Remove_uniforms, 0, "" },
        { "cg_bb1", "", 500, "" },
        { "cg_gamerepeat1", "", 500, "" },
@@ -299,14 +300,14 @@ Billig tøj shop civil starter her
        };
 		
         headgear[] = {
-            { "NONE", $STR_C_Remove_headgear, 0, "" },
-	    { "TRYK_R_CAP_BKL", "", 600, "" },
-	    { "Polo_Cap_Blk", "", 600, "" },
-	    { "Polo_Cap_Navy", "", 600, "" },
-	    { "Polo_Cap_Tan", "", 600, "" },
-	    { "CID_Cap_Tan", "", 600, "" },
-	    { "Kio_Capital_Hat", "", 800, "" },
-	    { "woolhat_louisv", "", 1200, "" }
+       { "NONE", $STR_C_Remove_headgear, 0, "" },
+       { "TRYK_R_CAP_BKL", "", 600, "" },
+       { "Polo_Cap_Blk", "", 600, "" },
+       { "Polo_Cap_Navy", "", 600, "" },
+       { "Polo_Cap_Tan", "", 600, "" },
+       { "CID_Cap_Tan", "", 600, "" },
+       { "Kio_Capital_Hat", "", 800, "" },
+       { "woolhat_louisv", "", 1200, "" }
         };
         goggles[] = {
             { "NONE", $STR_C_Remove_goggles, 0, "" },
@@ -345,15 +346,15 @@ Billig tøj shop civil starter her
         };
 		
         headgear[] = {
-            { "NONE", $STR_C_Remove_headgear, 0, "" },
-	    { "TRYK_ESS_CAP", "", 600, "" }
-	    };
+        { "NONE", $STR_C_Remove_headgear, 0, "" },
+	{ "TRYK_ESS_CAP", "", 600, "" }
+	};
 		
         goggles[] = {
-            { "NONE", $STR_C_Remove_goggles, 0, "" },
-	    { "Masque_Chirurgical", "", 600, "" },
-	    { "G_Combat", "", 600, "" },
-	    { "G_Combat_Goggles_tna_F", "", 600, "" }
+        { "NONE", $STR_C_Remove_goggles, 0, "" },
+	{ "Masque_Chirurgical", "", 600, "" },
+	{ "G_Combat", "", 600, "" },
+	{ "G_Combat_Goggles_tna_F", "", 600, "" }
 
         };
         vests[] = {
@@ -374,7 +375,7 @@ Billig tøj shop civil starter her
 	
 	
 /*-----Politi starter her ------*/		
-    class cop {
+        class cop {
         title = "STR_Shops_C_Police";
         conditions = "";
         side = "cop";
@@ -444,7 +445,21 @@ Billig tøj shop civil starter her
 	{ "U_C_HunterBody_grn", "", 25, "" },
 	{ "U_C_WorkerCoveralls", "", 25, "" },
 	{ "U_IG_Guerilla1_1", "", 25, "" },
-	{ "U_O_FullGhillie_lsh", "", 25, "" },
+        { "A3LCivPoloUK", "", 125, "" },
+    	{ "A3L_CivShirtProbe", "", 150, "" },
+   	{ "U_C_Poloshirt_salmon", "", 175, "" },
+        { "U_C_Poloshirt_blue", "", 250, "" },
+	{ "U_C_Poloshirt_burgundy", "", 275, "" },
+	{ "U_C_Poloshirt_tricolour", "", 350, "" },
+	{ "U_C_Poor_2", "", 250, "" },
+	{ "GreenPlaid_uni", "", 650, "" },
+	{ "BlGnGy_uni", "", 735, "" },
+	{ "U_OrestesBody", "", 1100, "" },
+        { "Checkered_uni", "", 1200, "" },
+	{ "kingfish_uni", "", 1500, "" },
+	{ "racer_uni", "", 2500, "" },
+	{ "U_NikosBody", "", 3000, "" },	
+        { "U_O_FullGhillie_lsh", "", 25, "" },
 	{ "U_NikosBody", "", 25, "" },
 	{ "U_NikosAgedBody", $STR_C_Civ_Niko, 25, "" }
 	};
@@ -457,34 +472,34 @@ Billig tøj shop civil starter her
         };
 		
         goggles[] = {
-            { "NONE", $STR_C_Remove_goggles, 0, "" },
-            { "G_Squares", "", 100, "" },
-            { "G_Shades_Blue", "", 100, "" },
-            { "G_Sport_Blackred", "", 100, "" },
-            { "G_Sport_Checkered", "", 100, "" },
-            { "G_Sport_Blackyellow", "", 100, "" },
-            { "G_Sport_BlackWhite", "", 100, "" },
-            { "G_Shades_Black", "", 100, "" },
-            { "G_Lowprofile", "", 100, "" },
-            { "G_Combat", "", 100, "" },
-            { "G_Aviator", "", 100, "" },
-            { "G_Lady_Mirror", "", 100, "" },
-            { "G_Lady_Dark", "", 100, "" },
-            { "G_Lady_Blue", "", 100, "" }
+        { "NONE", $STR_C_Remove_goggles, 0, "" },
+        { "G_Squares", "", 100, "" },
+        { "G_Shades_Blue", "", 100, "" },
+        { "G_Sport_Blackred", "", 100, "" },
+        { "G_Sport_Checkered", "", 100, "" },
+        { "G_Sport_Blackyellow", "", 100, "" },
+        { "G_Sport_BlackWhite", "", 100, "" },
+        { "G_Shades_Black", "", 100, "" },
+        { "G_Lowprofile", "", 100, "" },
+        { "G_Combat", "", 100, "" },
+        { "G_Aviator", "", 100, "" },
+        { "G_Lady_Mirror", "", 100, "" },
+        { "G_Lady_Dark", "", 100, "" },
+        { "G_Lady_Blue", "", 100, "" }
         };
 		
         vests[] = {
-            { "NONE", $STR_C_Remove_vests, 0, "" },
-            { "V_Rangemaster_belt", "", 100, "" }
+        { "NONE", $STR_C_Remove_vests, 0, "" },
+        { "V_Rangemaster_belt", "", 100, "" }
         };
 		
         backpacks[] = {
-            { "NONE", $STR_C_Remove_backpacks, 0, "" },
-            { "B_FieldPack_cbr", "", 100, "" },
-            { "B_AssaultPack_cbr", "", 100, "" },
-            { "B_Kitbag_cbr", "", 100, "" },
-            { "B_Bergen_sgg", "", 100, "" },
-            { "B_Carryall_khk", "", 100, "" }
+        { "NONE", $STR_C_Remove_backpacks, 0, "" },
+        { "B_FieldPack_cbr", "", 100, "" },
+        { "B_AssaultPack_cbr", "", 100, "" },
+        { "B_Kitbag_cbr", "", 100, "" },
+        { "B_Bergen_sgg", "", 100, "" },
+        { "B_Carryall_khk", "", 100, "" }
         };
     };
 
