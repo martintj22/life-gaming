@@ -593,34 +593,17 @@ class WeaponShops {
 			{ "ItemGPS", "", 75, 50, "call life_coplevel >= 0" },
 			{ "FirstAidKit", "", 100, 55, "call life_coplevel >= 0" },
 			{ "pmc_earpiece", "", 100, 50, "call life_coplevel >= 0" },
-			{ "hgun_ACPC2_F", "Lethal Pistol", 150, 500, "call life_coplevel >= 1" },
-			{ "SMG_02_F", "", 5550, 25, "call life_coplevel >= 1" },
-			{ "SMG_01_F", "", 5500, 25, "call life_coplevel >= 1" },
+			{ "RH_p226", "", 50, 25, "call life_coplevel >= 1" },
 			{ "RH_m9", "", 50, 25, "call life_coplevel >= 1" },
 			{ "tf_anprc152", "", 500, 150, "" },
 			{ "RH_fn57_t", "", 50, 25, "call life_coplevel >= 1" }			
         };
 
         mags[] = {
-            { "16Rnd_9x21_Mag", "", 125, 60, "call life_coplevel >= 0" },
-            { "20Rnd_556x45_UW_mag", $STR_W_mags_TaserRifle, 125, 60, "call life_coplevel >= 0" },
-            { "11Rnd_45ACP_Mag", "", 130, 65, "call life_coplevel >= 0" },
-            { "30Rnd_65x39_caseless_mag", "", 130, 65, "call life_coplevel >= 0" },
-            { "30Rnd_9x21_Mag", "", 250, 125, "call life_coplevel >= 0" },
-            { "30Rnd_9x21_Mag_SMG_02", "", 250, 125, "call life_coplevel >= 1" },
-            { "30Rnd_556x45_Stanag", "", 250, 125, "call life_coplevel >= 1" },
-            { "30Rnd_45ACP_Mag_SMG_01", "", 100, 50, "call life_coplevel >= 1" },
-            { "30Rnd_65x39_caseless_green", "", 250, 125, "call life_coplevel >= 2" },
-            { "9Rnd_45ACP_Mag", "", 200, 100, "call life_coplevel >= 0" },
-	    { "30Rnd_556x45_Stanag", "", 200, 100, "call life_coplevel >= 2" },
-	    { "30Rnd_65x39_caseless_mag", "", 250, 125, "call life_coplevel >= 4" },
-	    { "20Rnd_762x51_Mag", "", 100, 50, "call life_coplevel >= 8" },
-            { "200Rnd_65x39_cased_Box", "", 100, 50, "call life_coplevel >= 8" },
-            { "10Rnd_93x64_DMR_05_Mag", "", 100, 50, "call life_coplevel >= 11" },
 	    { "RH_15Rnd_9x19_M9", "", 100, 50, "call life_coplevel >= 1" },
 	    { "RH_15Rnd_9x19_SIG", "", 100, 50, "call life_coplevel >= 1" },
-	    { "RH_20Rnd_57x28_FN", "", 100, 50, "call life_coplevel >= 1" },
-            { "20Rnd_650x39_Cased_Mag_F", "", 100, 50, "call life_coplevel >= 0" } //Apex DLC
+	    { "RH_20Rnd_57x28_FN", "", 100, 50, "call life_coplevel >= 1" }
+            
         };
 
         accs[] = {
