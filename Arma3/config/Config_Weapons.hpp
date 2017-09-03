@@ -592,7 +592,7 @@ class WeaponShops {
 			{ "Binocular", "", 25, 20, "call life_coplevel >= 0" },
 			{ "ItemGPS", "", 75, 50, "call life_coplevel >= 0" },
 			{ "FirstAidKit", "", 100, 55, "call life_coplevel >= 0" },
-			{ "NVGoggles", "", 100, 50, "call life_coplevel >= 0" },
+			{ "pmc_earpiece", "", 100, 50, "call life_coplevel >= 0" },
 			{ "hgun_ACPC2_F", "Lethal Pistol", 150, 500, "call life_coplevel >= 1" },
 			{ "SMG_02_F", "", 5550, 25, "call life_coplevel >= 1" },
 			{ "SMG_01_F", "", 5500, 25, "call life_coplevel >= 1" },
