@@ -25,10 +25,10 @@ Headgear:
 [H_bandanna_gry] Bandana (Black) - 100
 [H_bandanna_blu] Bandana (Blue) - 100
 [H_Capbw_pmc] (PG) Black Logo ballcap - 200
-TRYK Bandana+wig+Goggles - 200
-TRYK Woolcap(br) - 300
-Booniehat (Khaki) - 400
-Booniehat (Olive) - 400
+[TRYK_H_Bandana_wig_g] TRYK Bandana+wig+Goggles - 200
+[TRYK_H_woolhat_br] TRYK Woolcap(br) - 300
+[H_Booniehat_khk] Booniehat (Khaki) - 400
+[H_Booniehat_oli] Booniehat (Olive) - 400
 
 Facewear:
 [G_Spectacles] Spectacle Glasses - 250
