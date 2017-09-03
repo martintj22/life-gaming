@@ -1,1 +1,56 @@
+[Itemspawn] - Navn - Pris
+_____________________________________________________________
+** Air Shops **
 
+_____________________________________________________________
+Shop 01 [Medic Helicopter Air]
+
+[ivory_b206_rescue] B-206B JetRanger -
+Capacity: 150 | Armor: 30 | Fuel: 70.1111 | MaxSpeed: 222 | 5 Sæder
+
+[EMS_HUMMINGBIRD] MH-9 (EMS) - 
+Capacity: 1000 | Armor: 30 | Fuel: 242 | MaxSpeed: 245 | 4 Sæder
+
+[ASL_AS350_1] AS-350 - 
+Capacity: 2000 | Armor: 30 | Fuel: 1000 | MaxSpeed: 300 | 5 Sæder
+
+[EMS_ORCA] PO-30 Orca (EMS) - 
+Capacity: 3000 | Armor: 40 | Fuel: 800 | MaxSpeed: 290 | 10 Sæder
+
+
+_____________________________________________________________
+Shop 02 [Civil Helicopter Air]
+
+[ivory_b206] B-206B JetRanger -
+Capacity: 150 | Armor: 30 | Fuel: 70.1111 | MaxSpeed: 222 | 5 Sæder
+
+[B_Heli_Light_01_F] MH-9 Hummingbird - 
+Capacity: 1000 | Armor: 30 | Fuel: 242 | MaxSpeed: 245 | 4 Sæder
+
+[C_Heli_Light_01_civil_F] M-900 -
+Capacity: 1000 | Armor: 30 | Fuel: 242 | MaxSpeed: 245 | 4 Sæder
+
+[O_Heli_Light_02_unarmed_F] PO-30 Orca (Unarmed) - 
+Capacity: 3000 | Armor: 40 | Fuel: 800 | MaxSpeed: 290 | 10 Sæder
+
+[I_Heli_Transport_02_F] CH-49 Mohawk - 
+Capacity: 5000 | Armor: 40 | Fuel: 2500 | MaxSpeed: 300 | 18 Sæder
+
+
+_____________________________________________________________
+Shop 03 [Civil Fly Air]
+
+[GNT_C186] Cessna 185 Skywagon
+Capacity: 0 | Armor: 20 | Fuel: 1000 | MaxSpeed: 290 | 4 Sæder
+
+//DLC\\ [C_Plane_Civil_01_F] Caesar BTT
+Capacity: 500 | Armor: 35 | Fuel: 386 | MaxSpeed: 450 | 4 Sæder
+
+[Sab_Snow3_An2] An-2PK AF - 
+Capacity: 0 | Armor: 35 | Fuel: 800 | MaxSpeed: 267 | 6/7 Sæder
+
+[sab_BI_An2] An-2 BohemiaInteractive - 
+Capacity: 0 | Armor: 35 | Fuel: 800 | MaxSpeed: 800 | 6/7 Sæder
+
+[tu154] Tu-154M Altian Airways - 
+Capacity: 0 | Armor: 40 | Fuel: 1000 | MaxSpeed: 935 | ?? Sæder
