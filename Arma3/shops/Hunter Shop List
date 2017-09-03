@@ -1,0 +1,51 @@
+[Itemspawn] - Navn - Pris
+_____________________________________________________________
+** Hunter Shop **
+
+Hunter License - 50000
+
+Rifles:
+[A3L_CZ550] CZ550 - 20000
+
+Handgun:
+[hgun_ACPC2_F] ACP-C2 .45 ACP - 9000
+
+Uniform:
+[EF_HM_B1] EF hoodie (Black) - 1000
+[EF_M_jkt1] EF Male Jacket 1(Jeans) - 2000
+[A3L_DOJ_Jumper_Gray] DOJ Jumper (Gray) - 3000
+[A3L_DTU_tiger] DTU Uniform (Tiger) - 4500
+[IRA_Soldier_Outfit_11] DPM Combat Jacket - 5000
+
+Backpacks:
+[B_Patrol_Respawn_bag_F] Camp (Dome Tent, Combat Patrol) - 1500
+
+Headgear:
+[H_Cap_grn_BI] Cap (BI) - 350
+[H_Cap_blk_Raven] Cap (AAF) - 350
+[H_MilCap_ghex_F] Military Cap (Green Hex) - 450
+[Bravo93_BoonieHat_DPM] Boonie Hat (DPM) - 500
+
+Facewear:
+[G_Spectacles_Tinted] Tinted Spectacles - 450
+[G_Balaclava_TI_G_tna_F] Stealth Balaclava (Green, Goggles) - 500
+[TRYK_Shemagh_Mesh] TRYK Shemagh(MESH) - 500
+[TRYK_Shemagh_G] TRYK Shemagh(OD) - 500
+
+Binoculars:
+[Binocular] Binoculars - 3000
+
+Map:
+[ItemMap] Map - 600
+
+Terminal:
+[ItemGPS] GPS - 4000
+
+Communication:
+[ItemRadio] Radio - 3500
+
+Navigation:
+[ItemCompass] Compass - 2500
+
+Watch:
+[Itemwatch] Watch - 1500
