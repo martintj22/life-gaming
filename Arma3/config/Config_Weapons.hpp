@@ -617,6 +617,7 @@ class WeaponShops {
 			{ "20Rnd_762x51_Mag", "", 100, 50, "call life_coplevel >= 8" },
             { "200Rnd_65x39_cased_Box", "", 100, 50, "call life_coplevel >= 8" },
             { "10Rnd_93x64_DMR_05_Mag", "", 100, 50, "call life_coplevel >= 11" },
+	    { "RH_15Rnd_9x19_M9", "", 100, 50, "call life_coplevel >= 1" },
             { "20Rnd_650x39_Cased_Mag_F", "", 100, 50, "call life_coplevel >= 0" } //Apex DLC
         };
 
