@@ -119,16 +119,16 @@ Backpacks:
 [TAC_MTAP_CY] TAC MTAP -Carrying(BK) - 900
 [TRYK_B_Kitbag_blk] TRYK KitBag [blk] - 1100
 [TRYK_B_Coyotebackpack_BLK] TRYK CamelPack(BLK) - 1500
-LS Carryall - 2600
+[Iscarryall_comic] LS Carryall - 2600
 
 Headgear:
-TRYK reverse cap Glasses on head (blk) - 600
-Polo Cap (Black) - 800
-Polo Cap (Navy) - 800
-Polo Cap (Tan) - 800
-CID Cap (Black) - 1000
-Hat (Tan) - 1000
-Wool Hat Louis Vuitton - 1000
+[TRYK_R_CAP_BKL] TRYK reverse cap Glasses on head (blk) - 600
+[Polo_Cap_Blk] Polo Cap (Black) - 800
+[Polo_Cap_Navy] Polo Cap (Navy) - 800
+[Polo_Cap_Tan] Polo Cap (Tan) - 800
+[CID_Cap_Tan] CID Cap (Black) - 1000
+[Kio_Capital_Hat] Hat (Tan) - 1000
+[woolhat_louisv] Wool Hat Louis Vuitton - 1000
 
 Facewear:
 [EF_FG1] EF Female Glass - 400
@@ -141,60 +141,59 @@ _________________________________________________________
 ** Shop 05 [Civil Shop] [Tøj - Specials] **
 
 T-shirts/Uniformer:
-A3L Taxi Uniform - 800
-A3L Farmer Outfit - 1200
-A3L Worker Outfit - 1400
+[taxi_uni] A3L Taxi Uniform - 800
+[A3L_Farmer_Outfit] A3L Farmer Outfit - 1200
+[A3L_Worker_Outfit] A3L Worker Outfit - 1400
 
 Backpacks:
-TRYK tube (blk) - 1000
-TRYK Earmuffs on head - 1000
-Marshal Cap - 1200
-TRYK ESS Goggles cap (tan) - 1400
+[TRYK_B_tube_blk] TRYK tube (blk) - 1000
+[TRYK_Headphone_nv] TRYK Earmuffs on head - 1000
+[H_Cap_marshal] Marshal Cap - 1200
 TRYK White covered Winter BACKPACK - 4000
 
 Facewear:
 [Masque_Chirurgical] Masque Chirurgical Vert - 500
 [G_Combat] Combat Goggles - 800
 [G_Combat_Goggles_tna_F] Combat Goggles (Green) - 800
-
+TRYK ESS Goggles cap
 
 _____________________________________________________________
 ** Shop 06 [Civil Shop] [Tøj - Rich] **
 
 T-shirts/Uniformer:
-A3L Flower Shirt - 900
-A3L Floral Shirt - 1000
-A3L Brown Polo Shirt - 1000
-Casual Clothes (Blue) - 1000
-EF Male Jacket 4(Chinos) - 1500
-EF Male Jacket 5 (T/Chinos) - 2000
-EF Suit 2 - 4000
-EF Suit 6 - 6000
-EF Suit 1 - 8000
-Kael Suit (Blue) - 10000
-Kael Suit (Purple) - 10000
-Kael Suit (Formal) - 14000
-Kael Suit (White 1) - 14000
+[A3LFlowerShirt] A3L Flower Shirt - 900
+[A3LFloralShirt] A3L Floral Shirt - 1000
+[A3L_BrownPoloShirt] A3L Brown Polo Shirt - 1000
+[U_C_Man_casual_1_F] Casual Clothes (Blue) - 1000
+[EF_M_jkt2_4] EF Male Jacket 4(Chinos) - 1500
+[EF_M_JKT32] EF Male Jacket 5 (T/Chinos) - 2000
+[EF_suit_2] EF Suit 2 - 4000
+[EF_suit_B] EF Suit 6 - 6000
+[EF_suit_1] EF Suit 1 - 8000
+[KAEL_SUITS_BR_F3] Kael Suit (Blue) - 10000
+[KAEL_SUITS_BR_F4] Kael Suit (Purple) - 10000
+[KAEL_SUITS_BR_F12] Kael Suit (Formal) - 14000
+[KAEL_SUITS_BR_F13] Kael Suit (White 1) - 14000
 
 Backpacks:
-EF Female Bag (Black) - 1000
-EF Female Hip Bag (Black) - 1200
-EF Female Shoulder Bag (Black) - 1400
-LS Carryall Gold - 3500
-LS Carryall Louis Vuitton - 5000
+[EF_FBAG_BW] EF Female Bag (Black) - 1000
+[EF_FBAG_HB_VL] EF Female Hip Bag (Black) - 1200
+[EF_FBAG_SL_BL] EF Female Shoulder Bag (Black) - 1400
+[Iscarryall_gold] LS Carryall Gold - 3500
+[Iscarryall_louisv] LS Carryall Louis Vuitton - 5000
 
 Headgear:
-Hat (Brown) - 800
-Straw Hat (Dark) - 900
-Hat (Grey) - 1000
-Ushanka - 1400
-Capital Hat - 5000
-Holy Crown - 20000
+[H_Hat_brown] Hat (Brown) - 800
+[H_StrawHat_dark] Straw Hat (Dark) - 900
+[H_Hat_grey] Hat (Grey) - 1000
+[A3L_russianhat] Ushanka - 1400
+[Kio_Capital_Hat] Capital Hat - 5000
+[A3L_crown] Holy Crown - 20000
 
 Facewear:
 [A3L_FatHead] A3L Fat Head - 400
-EF Scarf 2(White) - 800
-EF Scarf 2(Cream) - 800
+[EF_SC_W2_NV] EF Scarf 2(White) - 800
+[EF_SC_C2_NV] EF Scarf 2(Cream) - 800
 [EF_RG1] EF Round Glass - 1000
 [G_Lady_Blue] Ladies Shades - 1000
 [G_Squares] Square Shades - 1200
