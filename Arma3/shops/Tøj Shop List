@@ -270,20 +270,20 @@ Piercinger:
 [EF_AC3] EF Punk accessory (nose 2) - 400
 
 Skæg:
-Small Tactical Beard (Blonde) - 300
-Small Tactical Beard (Dark) - 300
-Small Tactical Beard (Ginger) - 300
-Small Tactical Beard (Old) - 300
-Tactical Chinless Beard (Blonde) - 350
-Tactical Chinless Beard (Dark) - 350
-Tactical Chinless Beard (Ginger) - 350
-Tactical Chinless Beard (Old) - 350
-Tactical Moustache (Blonde) - 300
-Tactical Moustache (Dark) - 300
-Tactical Moustache (Ginger) - 300
-Tactical Moustache (Old) - 300
-Tactical Mutton Chops (Blonde) - 350
-Tactical Mutton Chops (Dark) - 350
-Tactical Mutton Chops (Ginger) - 350
-Tactical Mutton Chops (Old) - 350
+[SFG_Tag_smallBeardB] Small Tactical Beard (Blonde) - 300
+[SFG_Tag_smallBeardD] Small Tactical Beard (Dark) - 300
+[SFG_Tag_smallBeardG] Small Tactical Beard (Ginger) - 300
+[SFG_Tag_smallBeardO] Small Tactical Beard (Old) - 300
+[SFG_Tag_chinlessbB] Tactical Chinless Beard (Blonde) - 350
+[SFG_Tag_chinlessbD] Tactical Chinless Beard (Dark) - 350
+[SFG_Tag_chinlessbG] Tactical Chinless Beard (Ginger) - 350
+[SFG_Tag_chinlessbO] Tactical Chinless Beard (Old) - 350
+[SFG_Tag_moustacheB] Tactical Moustache (Blonde) - 300
+[SFG_Tag_moustacheD] Tactical Moustache (Dark) - 300
+[SFG_Tag_moustacheG] Tactical Moustache (Ginger) - 300
+[SFG_Tag_moustacheO] Tactical Moustache (Old) - 300
+[SFG_Tag_ChopsB] Tactical Mutton Chops (Blonde) - 350
+[SFG_Tag_ChopsD] Tactical Mutton Chops (Dark) - 350
+[SFG_Tag_ChopsG] Tactical Mutton Chops (Ginger) - 350
+[SFG_Tag_ChopsO] Tactical Mutton Chops (Old) - 350
 
