@@ -33,13 +33,13 @@
 -Medic update, Tøj, Biler, udstyr
 </p>
  <p>
-  Id, mullig for at vise id hvis politiet spørger
+  -Id, mullig for at vise id hvis politiet spørger
 </p>
  <p>
-  Mobil script, gører det mulligt at ringe til folk
+  -Mobil script, gører det mulligt at ringe til folk
 </p>
 
  <p> 
- Mac d åbner med salg af burger, med mullighed for at crafte burger og sælge det der.
+ -Mac d åbner med salg af burger, med mullighed for at crafte burger og sælge det der.
 </p>
 
