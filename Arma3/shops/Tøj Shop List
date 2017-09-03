@@ -118,7 +118,7 @@ T-shirts/Uniformer:
 Backpacks:
 [TAC_MTAP_CY] TAC MTAP -Carrying(BK) - 900
 [TRYK_B_Kitbag_blk] TRYK KitBag [blk] - 1100
- TRYK CamelPack(BLK) - 1500
+[TRYK_B_Coyotebackpack_BLK] TRYK CamelPack(BLK) - 1500
 LS Carryall - 2600
 
 Headgear:
