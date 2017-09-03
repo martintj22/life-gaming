@@ -3,26 +3,28 @@ _____________________________________________________________
 ** Shop 01 [Civil Shop] [Tøj - Normal/Billigt] **
 
 T-shirts/Uniformer:
-A3L Plaid (Green) - 300
-A3L Polo (BL-GN-GY) - 300
-A3L Polo (Checkered) - 350
-A3L Polo (Kingfish) - 400
-A3L Polo (UK) - 400
-A3L Probe Shirt - 400
-A3L Racer Uniform - 400
-Bandit Clothes (Checkered) - 400
+[GreenPlaid_uni] A3L Plaid (Green) - 300
+[BlGnGy_uni] A3L Polo (BL-GN-GY) - 300
+[Checkered_uni]  A3L Polo (Checkered) - 350
+[kingfish_uni] A3L Polo (Kingfish) - 400
+[A3LCivPoloUK] A3L Polo (UK) - 400
+[A3L_CivShirtProbe] A3L Probe Shirt - 400
+[racer_uni] A3L Racer Uniform - 400
+[U_I_C_Soldier_Bandit_4_F] clothes (Checkered) - 400
 
 Backpacks:
-Assault Pack (Hex) - 800
+[B_AssaultPack_ocamo] Assault Pack (Hex) - 800
+
+** Kunne ikke findes Koga73**
 Camp (Brown Sleeping Bag) - 1000
 Camp (Dome Tent, Combat Patrol) - 1400
-Carryall Backpack (Green Hex) - 1500
+----------------------------------------
 
 Headgear:
-TRYK Bandana - 50
-Bandana (Black) - 100
-Bandana (Blue) - 100
-(PG) Black Logo ballcap - 200
+[TRYK_bandana_NV] TRYK Bandana - 50
+[H_bandanna_gry] Bandana (Black) - 100
+[H_bandanna_blu] Bandana (Blue) - 100
+[H_Capbw_pmc] (PG) Black Logo ballcap - 200
 TRYK Bandana+wig+Goggles - 200
 TRYK Woolcap(br) - 300
 Booniehat (Khaki) - 400
