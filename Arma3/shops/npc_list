@@ -8,3 +8,6 @@ Tøjs butikker:
 [modern] Moderne tøj
 [special] Specielt tøj 
 
+
+Bil tuning:
+npc_tuning_3 = this; 
