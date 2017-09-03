@@ -1,0 +1,21 @@
+[Itemspawn] - Navn - Pris
+_____________________________________________________________
+** General Store **
+
+Binoculars:
+[Binocular] Binoculars - 3000
+
+Map:
+[ItemMap] Map - 600
+
+Terminal:
+[ItemGPS] GPS - 4000
+
+Communication:
+[ItemRadio] Radio - 3500
+
+Navigation:
+[ItemCompass] Compass - 2500
+
+Watch:
+[Itemwatch] Watch - 1500
