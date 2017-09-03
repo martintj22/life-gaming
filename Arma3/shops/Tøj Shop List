@@ -14,8 +14,11 @@ T-shirts/Uniformer:
 
 Backpacks:
 [B_AssaultPack_ocamo] Assault Pack (Hex) - 800
+** Updated **
 [B_Respawn_Sleeping_bag_brown_F] Camp (Brown Sleeping Bag) - 1000
 [B_Patrol_Respawn_bag_F] Camp (Dome Tent, Combat Patrol) - 1400
+** Updated **
+----------------------------------------
 
 Headgear:
 [TRYK_bandana_NV] TRYK Bandana - 50
@@ -203,39 +206,39 @@ Weapons:
 [A3L_PaintballGun] A3L paintball gun - 10000
 
 T-shirts/Uniformer:
-CG KFC - 1400
-CG Troll - 1600
-A3L Kappa Shirt - 1600
-[A3L] Vape Nation Shirt - 1600
-EF Female 3 Punk Shirt - 2000
-Kael Suit (Light Purple) - 12000
-VR Suit [CSAT] - 50000
-VR Suit [NATO] - 60000
+[cg_kfc1] CG KFC - 1400
+[cg_troll1] CG Troll - 1600
+[A3L_CivShirtKappa] A3L Kappa Shirt - 1600
+[A3L_Vape_Nation_Uniform] Vape Nation Shirt - 1600
+[EF_FEM_3_42] EF Female 3 Punk Shirt - 2000
+[KAEL_SUITS_BR_BR_F11] Kael Suit (Light Purple) - 12000
+[U_O_Protagonist_VR] VR Suit [CSAT] - 50000
+[U_B_Protagonist_VR]  VR Suit [NATO] - 60000
 
 Backpacks:
-A3L Pokemon GO Backpack (Black) - 4000
-A3L Pokemon GO Backpack (White) - 4000
-A3L Pink Carryall - 6000
+[A3L_BergenPogo_black] A3L Pokemon GO Backpack (Black) - 4000
+[A3L_BergenPogo_white] A3L Pokemon GO Backpack (White) - 4000
+[A3L_Pinkciv] A3L Pink Carryall - 6000
 
 Headgear:
-Elf Hat - 3000
-SpongeBob Mask - 3000
-Guy Fawkes Mask - 5000
-Masque Alien - 5000
-Général Overkill - 5000
-Masque Force Alpha - 5000
-Gingberbread Man Mask 1 - 6000
-Elf Mask 1 - 7000
-Hulk Mask - 7000
-JM Goat - 7000
-Masque Optimiste - 8000
-Masque Santa - 8000
-Casque Moto Vert - 9000
-Masque Speed Runner - 9000
-Masque Unic - 9000
-Penguin Mask - 9000
-Horse Head 1 - 13000
-Kermit Mask - 14000
+[Gorb_Elf] Elf Hat - 3000
+[H_SpongebobMask]SpongeBob Mask - 3000
+[H_GuyFawkesMask]Guy Fawkes Mask - 5000
+[Masque_Alien1]Masque Alien - 5000
+[Payday_GeneralO]Général Overkill - 5000
+[Masque_forceAlpha] Masque Force Alpha - 5000
+[H_GingerbreadMask] Gingberbread Man Mask 1 - 6000
+[Gorb_ElfMask1] Elf Mask 1 - 7000
+[H_HulkMask] Hulk Mask - 7000
+[JM_Goat] JM Goat - 7000
+[Masque_Optimiste] Masque Optimiste - 8000
+[Masque_Santa] Masque Santa - 8000
+[Casque_Moto] Casque Moto Vert - 9000
+[Masque_speedRunner] Masque Speed Runner - 9000
+[Masque_Unic] Masque Unic - 9000
+[Gorb_Penguin] Penguin Mask - 9000
+[cg_horsehead_2] Horse Head 1 - 13000
+[H_KermitMask] Kermit Mask - 14000
 
 Facewear:
 [Masque_Solitaire] Masque Solitaire - 1000
@@ -249,17 +252,17 @@ _____________________________________________________________
 
 Headgear:
 Hår: 
-EF Hair Black Short - 300
-EF Hair Bleach Short - 300
-EF Hair Black Dread - 400
-EF Hair Black Long - 400
-EF Hair Bleach Long - 400
-EF Hair Black Mohawk - 500
-EF Hair Bleach Mohawk - 500
-EF Hair Grizzled Short - 700
-EF Hair Grizzled Soft Mohawk - 700
-EF Hair Silver Long - 800
-EF Hair Silver Short 2 - 900
+[EF_wig_SB]  EF Hair Black Short - 300
+[EF_wig_SBLE]EF Hair Bleach Short - 300
+[EF_wig_DHB]EF Hair Black Dread - 400
+[EF_Long_wig_B]EF Hair Black Long - 400
+[EF_Long_wig_BLE]EF Hair Bleach Long - 400
+[EF_Punk_wig_B]EF Hair Black Mohawk - 500
+[EF_Punk_wig_BLE]EF Hair Bleach Mohawk - 500
+[EF_wig_SGL]EF Hair Grizzled Short - 700
+[EF_Punk_wig_SGL]EF Hair Grizzled Soft Mohawk - 700
+[EF_Long_wig_SV]EF Hair Silver Long - 800
+[EF_wig_SSV]EF Hair Silver Short 2 - 900
 
 Facewear:
 Piercinger:
