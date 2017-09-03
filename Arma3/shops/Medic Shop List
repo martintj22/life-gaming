@@ -49,12 +49,12 @@ Watch:
 [Itemwatch] Watch - 1500
 
 Medic Shop Items:
-[defibrillator] Defibrillator - 300
-[toolkit] Toolkit - 500
 [apple] Apple - 50
 [waterBottle] Water Bottle - 50
 [donuts] Donuts - 100
-[FlareRed_F] Flare (Red) - 200
 [CG_ATF_First_Aid_Kit_i] First Aid Kit - 150
-[CG_ATF_Drug_Bottle_02_i] Drug Bottle 02 - 250
 [CG_ATF_Bandage_i] Bandage - 150
+[FlareRed_F] Flare (Red) - 200
+[CG_ATF_Drug_Bottle_02_i] Drug Bottle 02 - 250
+[defibrillator] Defibrillator - 300
+[toolkit] Toolkit - 500
