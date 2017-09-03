@@ -618,11 +618,11 @@ class WeaponShops {
 	    { "optic_DMS", "", 1000, 500, "call life_coplevel >= 0" },
             { "acc_flashlight", "", 750, 375, "call life_coplevel >= 3" },
             { "optic_Holosight", "", 1200, 600, "call life_coplevel >= 3" },
-	    { "optic_SOS", "", 1500, 1050, "call life_coplevel >= 5" },
-            { "optic_AMS", "", 1500, 1050, "call life_coplevel >= 9" },
-            { "optic_MRCO", "", 1500, 1050, "call life_coplevel >= 9" },
-	    { "FHQ_optic_AC11704", "", 250, 100, "call life_coplevel >= 9" },
-	    { "muzzle_snds_L", "", 250, 100, "call life_coplevel >= 9" },
+	    { "optic_SOS", "", 1500, 1050, "call life_coplevel >= 4" },
+            { "optic_AMS", "", 1500, 1050, "call life_coplevel >= 4" },
+            { "optic_MRCO", "", 1500, 1050, "call life_coplevel >= 3" },
+	    { "FHQ_optic_AC11704", "", 250, 100, "call life_coplevel >= 3" },
+	    { "muzzle_snds_L", "", 250, 100, "call life_coplevel >= 3" },
             { "muzzle_snds_H", "", 250, 100, "call life_coplevel >= 3" }
         };
     };
