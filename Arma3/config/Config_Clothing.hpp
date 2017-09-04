@@ -509,11 +509,11 @@ Billig tøj shop civil starter her
 		side = "cop";
 		uniforms[] = {
 			{ "NONE", $STR_C_Remove_uniforms, 0, "" },
-			{ "U_Rangemaster", "Police", 25, "" }
+			{ "A3L_SWAT", "Police", 25, "" }
 		};
 		headgear[] = {
             { "NONE", $STR_C_Remove_headgear, 0, "" },
-            { "H_HelmetSpecB_blk", "", 25, "call life_coplevel >= 0" }
+            { "CG_sert_H2", "", 25, "call life_coplevel >= 0" }
 		};
 		goggles[] = {
 		{ "NONE", $STR_C_Remove_goggles, 0, "" },
@@ -525,7 +525,7 @@ Billig tøj shop civil starter her
 		{ "G_Sport_BlackWhite", "", 100, "" },
 		{ "G_Shades_Black", "", 100, "" },
 		{ "G_Lowprofile", "", 100, "" },
-		{ "G_Combat", "", 100, "" },
+		{ "TRYK_kio_balaclava_ESS", "", 100, "" },
 		{ "G_Aviator", "", 100, "" },
 		{ "G_Lady_Mirror", "", 100, "" },
 		{ "G_Lady_Dark", "", 100, "" },
@@ -533,7 +533,7 @@ Billig tøj shop civil starter her
 		};
 		vests[] = {
             { "NONE", $STR_C_Remove_vests, 0, "" },
-            { "V_PlateCarrier2_blk", "", 100, "" }
+            { "LVSP_SWAT_black", "", 100, "" }
 
 		};
 		backpacks[] = {
