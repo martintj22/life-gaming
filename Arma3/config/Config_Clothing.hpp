@@ -382,11 +382,11 @@ Billig tøj shop civil starter her
 	    
         uniforms[] = {
 	{ "NONE", $STR_C_Remove_uniforms, 0, "" },
-        { "A3L_EC_SOCPINS", "Police", 25, "call life_coplevel >= 7" },
-	{ "A3L_EC_SOCPT", "Police", 25, "" },
-	{ "A3L_EC_SOCPCOM", "Police", 25, "call life_coplevel >= 7" },
-	{ "A3L_EC_SOCPOF", "Police", 25, "call life_coplevel >= 7" },
-	{ "A3L_EC_SOCPSER", "Police", 25, "call life_coplevel >= 1" },
+        { "A3L_EC_SOCPINS", "Inspector", 25, "call life_coplevel >= 7" },
+	{ "A3L_EC_SOCPT", "Cadet", 25, "" },
+	{ "A3L_EC_SOCPCOM", "Commissioner", 25, "call life_coplevel >= 7" },
+	{ "A3L_EC_SOCPOF", "Officer", 25, "call life_coplevel >= 7" },
+	{ "A3L_EC_SOCPSER", "Sergeant", 25, "call life_coplevel >= 1" },
 	{ "EF_HMP_2", "Police", 25, "" }
         };
 		
