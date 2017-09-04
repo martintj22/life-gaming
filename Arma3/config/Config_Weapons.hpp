@@ -410,53 +410,24 @@ class WeaponShops {
 		conditions = "license_cop_sco19";
 		items[] = {
 	    { "Rangefinder", "", 25, 20, "" },
-	    { "hgun_ACPC2_F", "", 150, 500, "" },
 	    { "ItemGPS", "", 75, 50, "" },
 	    { "FirstAidKit", "", 100, 55, "" },
-	    { "NVGoggles_OPFOR", "", 100, 50, "" },
+	    { "pmc_earpiece", "", 100, 50, "" },
 	    { "HandGrenade_Stone", $STR_W_items_Flashbang, 100, 50, "" },
             { "SmokeShell", "", 100, 50, "" },
-	    { "hgun_P07_snds_F", $STR_W_items_StunPistol, 500, 200, "" },
-	    { "hgun_P07_F", "", 500, 250, "" },
-	    { "hgun_P07_khk_F", "", 500, 250, "" }, //Apex DLC
-	    { "SMG_02_F", "", 500, 250, "" },
-	    { "arifle_Katiba_F", "", 500, 250, "" }, //arifle_Mk20C_F
-	    { "arifle_MX_Black_F", "", 500, 250, "" },
-	    { "arifle_MXM_Black_F", "", 500, 250, "" },
-            { "arifle_SPAR_01_blk_F", "", 500, 250, "" },
-            { "arifle_SPAR_03_blk_F", "", 500, 250, "" },
-            { "srifle_DMR_03_F", "", 500, 250, "" },
-	    { "arifle_MX_SW_Black_F", "", 5000, 250, "" }
+	    { "RH_M4A6", "", 100, 50, "" },
+	    { "RH_M4_ris", "", 500, 250, "" }
 		};
 		mags[] = {
-			{ "9Rnd_45ACP_Mag", "", 125, 60, "" },
-			{ "16Rnd_9x21_Mag", "", 125, 60, "" },
-			{ "20Rnd_556x45_UW_mag", $STR_W_mags_TaserRifle, 125, 60, "" },
-			{ "11Rnd_45ACP_Mag", "", 130, 65, "" },
-			{ "30Rnd_65x39_caseless_mag", "", 130, 65, "" },
-			{ "30Rnd_9x21_Mag", "", 250, 125, "" },
-			{ "30Rnd_9x21_Mag_SMG_02", "", 250, 125, "" },
-			{ "30Rnd_65x39_caseless_green", "", 250, 125, "" },
-			{ "9Rnd_45ACP_Mag", "", 200, 100, "" },
-			{ "30Rnd_556x45_Stanag", "", 200, 100, "" },
-			{ "30Rnd_65x39_caseless_mag", "", 250, 125, "" },
-			{ "20Rnd_762x51_Mag", "", 100, 50, "" },
-			{ "7Rnd_408_Mag", "", 100, 50, "" },
-			{ "20Rnd_650x39_Cased_Mag_F", "", 100, 50, "" } //Apex DLC
+			{ "RH_30Rnd_556x45_Mk318", "", 100, 50, "" },
+			{ "RH_30Rnd_68x43_Match", "", 100, 50, "" }
 		};
 		accs[] = {
-			{ "muzzle_snds_L", "", 250, 100, "" },
-			{ "muzzle_snds_M", "", 250, 100, "" },
-			{ "muzzle_snds_H", "", 250, 100, "" },
-			{ "optic_Arco", "", 650, 325, "" },
-			{ "optic_Hamr", "", 650, 325, "" },
-			{ "optic_DMS", "", 650, 325, "" },
-			{ "optic_MRD", "", 1000, 500, "" },
-			{ "acc_flashlight", "", 750, 375, "" },
-			{ "optic_Holosight", "", 1200, 600, "" },
-			{ "optic_SOS", "", 1500, 1050, "" },
-                        { "optic_AMS", "", 1500, 1050, "" },
-			{ "muzzle_snds_H", "", 250, 100, "" }
+			{ "muzzle_snds_M", "", 150, 75, "" },
+			{ "RH_saker", "", 150, 75, "" },
+			{ "bipod_01_F_blk", "", 250, 100, "" },
+			{ "acc_pointer_IR", "", 250, 100, "" },
+                        { "FHG_optic_ACOG", "", 300, 150, "" }
 		};
 	};
 
@@ -469,7 +440,7 @@ class WeaponShops {
 			{ "hgun_ACPC2_F", "", 150, 500, "" },
 			{ "ItemGPS", "", 75, 50, "" },
 			{ "FirstAidKit", "", 100, 55, "" },
-			{ "NVGoggles", "", 100, 50, "" },
+			{ "pmc_earpiece", "", 100, 50, "" },
 			{ "HandGrenade_Stone", $STR_W_items_Flashbang, 100, 50, "" },
 			{ "hgun_P07_snds_F", $STR_W_items_StunPistol, 500, 200, "" },
 			{ "hgun_P07_F", "", 500, 250, "" },
