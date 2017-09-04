@@ -229,8 +229,8 @@ class VirtualItems {
         variable = "lockpick";
         displayName = "STR_Item_Lockpick";
         weight = 1;
-        buyPrice = 150;
-        sellPrice = 75;
+        buyPrice = 550;
+        sellPrice = 175;
         illegal = true;
         edible = -1;
         icon = "icons\ico_lockpick.paa";
