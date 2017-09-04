@@ -99,10 +99,55 @@ Forkortelser:
 - Kan bruges til at opbevar ting, kræver et hus.
 - Køb 150.000 // 125.000 
 - Standart altis
+
+//** Vores custom værktøjer sættes under her **\\
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-
 --------------------------------------------------Mad & Drikkelse---------------------------------------------------------------------------
+
+
+
+//** Vores custom Mad og drikkelse sættes under her **\\
+
+ - Cheese_bruger
+ - STR_Item_CheeseBurger
+ - Mac donalds
+ - Køb 10 // salg 8
+ - Life-Gaming custom
+ 
+ - Big_Mac
+ - STR_Item_BigMac
+ - Mac donalds
+ - Køb 35 // salg 30
+ - Life-Gaming custom
+ 
+ - Big_Tasty_bacon
+ - STR_Item_BigTastyBacon
+ - Mac donalds
+ - Køb 60 // salg 55
+ - Life-Gaming custom
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+---------------------------------------------------Field og procces---------------------------------------------------------------------------
+
+
+//** Vores custom fields og process **\\
+
+- Silver
+- STR_Item_Silver
+- Silver bruges til salg og våben
+- Dynamisk market 2000 Standart // Køb & salg 1000-3000  
+- Life-Gaming custom
+
+- Metamorfe
+- STR_Item_Metamorfe
+- Metamorfe 
+-----------------------------------------------------------------------------------------------------------------------------------------
+ 
