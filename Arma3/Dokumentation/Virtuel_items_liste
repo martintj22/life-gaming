@@ -1,0 +1,100 @@
+///////** Life-Gaming - Satoz **\\\\\\\
+
+
+Dette er en liste over virtuel items, som du kan finde i y menuen.
+Ingen våben eller tøj tak!!
+
+Denne liste er bygget op, på følgende måde:
+
+- SpawnNavn
+- Displayitem
+- Hvad det bruges til
+- Køb // salg pris eller dynamisk?
+- Dato for tilføjelse
+
+Forkortelser:
+-1 = Kan ikke købes eller sælges
+
+----------------------------------------------------Værktøjer-------------------------------------------------------------------------
+
+- pickaxe
+- STR_Item_Pickaxe
+- Til Mining
+- Køb: 750 // salg: 350
+- Standart altis
+-----------------------
+
+- defibrillator
+- STR_Item_Defibrillator
+- Hjerte starter
+- Køb: 900 // salg: 450
+- Standart altis
+-----------------------
+
+- toolkit
+- STR_Item_Toolkit
+- Reparer køretøjer
+- Køb: 3500 // salg 100 
+- Standart altis
+-----------------------
+
+- fuelEmpty 
+- STR_Item_FuelE
+- Tom benzin dunk, kan fyldes op.
+- Køb: -1 // Salg  
+- Standart altis
+-----------------------
+
+- fuelFull
+- STR_Item_FuelF
+- Fuld benzin dunk.
+- Standart altis
+-----------------------
+
+- spikeStrip
+- STR_Item_SpikeStrip
+- Til politiet.
+- Standart altis
+-----------------------
+
+- lockpick
+- STR_Item_Lockpick
+- Lockpick til rebel.
+- Standart altis
+-----------------------
+
+- blastingcharge
+- STR_Item_BCharge
+- Spræng stof.
+- Standart altis
+-----------------------
+
+- boltcutter
+- STR_Item_BCharge
+- Bolt saks, kan bruges til røve, banken.
+- Standart altis
+-----------------------
+
+- defusekit
+- STR_Item_DefuseKit
+- Kan bruges til at defuse spræng stoffer.
+- Standart altis
+-----------------------
+
+- storagesmall 
+- STR_Item_StorageBS
+- Kan bruges til at opbevar ting, kræver et hus.
+- Standart altis
+-----------------------
+
+- storagebig
+- STR_Item_StorageBS
+- Kan bruges til at opbevar ting, kræver et hus.
+- Standart altis
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+--------------------------------------------------Mad & Drikkelse---------------------------------------------------------------------------
