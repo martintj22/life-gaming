@@ -589,15 +589,15 @@ class WeaponShops {
         side = "cop";
         conditions = "";
         items[] = {
-			{ "Binocular", "", 25, 20, "call life_coplevel >= 0" },
-			{ "ItemGPS", "", 75, 50, "call life_coplevel >= 0" },
-			{ "FirstAidKit", "", 100, 55, "call life_coplevel >= 0" },
-			{ "pmc_earpiece", "", 100, 50, "call life_coplevel >= 0" },
-			{ "RH_p226", "", 50, 25, "call life_coplevel >= 1" },
-			{ "RH_m9", "", 50, 25, "call life_coplevel >= 1" },
-		        { "hlc_smg_mp5a4", "", 50, 25, "call life_coplevel >= 3" },
-			{ "tf_anprc152", "", 500, 150, "" },
-			{ "RH_fn57_t", "", 50, 25, "call life_coplevel >= 1" }			
+	     { "Binocular", "", 25, 20, "call life_coplevel >= 0" },
+	     { "ItemGPS", "", 75, 50, "call life_coplevel >= 0" },
+	     { "FirstAidKit", "", 100, 55, "call life_coplevel >= 0" },
+	     { "pmc_earpiece", "", 100, 50, "call life_coplevel >= 0" },
+	     { "RH_p226", "", 50, 25, "call life_coplevel >= 1" },
+	     { "RH_m9", "", 50, 25, "call life_coplevel >= 1" },
+             { "hlc_smg_mp5a4", "", 50, 25, "call life_coplevel >= 3" },
+	     { "tf_anprc152", "", 500, 150, "" },
+	     { "RH_fn57_t", "", 50, 25, "call life_coplevel >= 1" }			
         };
 
         mags[] = {
