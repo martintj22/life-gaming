@@ -870,7 +870,44 @@ class VirtualItems {
         icon = "icons\ico_muttonLeg.paa";
     };
 
-	class ziptie {
+	/*Life-Gaming ekstra */ 
+	
+	
+    class Silver {
+        variable = "Silver";
+        displayName = "STR_Item_Silver";
+        weight = 2;
+        buyPrice = 2000;
+        sellPrice = 135;
+        illegal = false;
+        edible = 100;
+        icon = "icons\Silver.paa";
+    };
+	
+      class Metamorfe {
+        variable = "Metamorfe";
+        displayName = "STR_Item_Metamorfe";
+        weight = 2000;
+        buyPrice = 175;
+        sellPrice = 135;
+        illegal = false;
+        edible = 100;
+        icon = "icons\ico_muttonLeg.paa";
+    };
+	
+        class Sugar {
+        variable = "Sugar";
+        displayName = "STR_Item_Sugar";
+        weight = 2000;
+        buyPrice = 175;
+        sellPrice = 135;
+        illegal = false;
+        edible = 100;
+        icon = "icons\ico_muttonLeg.paa";
+    };
+	
+	
+       class ziptie {
 		variable = "ziptie";
 		displayName = "STR_Ziptie";
 		weight = 6;
