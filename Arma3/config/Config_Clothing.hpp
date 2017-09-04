@@ -533,7 +533,7 @@ Billig tøj shop civil starter her
 		};
 		vests[] = {
             { "NONE", $STR_C_Remove_vests, 0, "" },
-            { "LVSP_SWAT_black", "", 100, "" }
+            { "LVSP_SWATblack", "", 100, "" }
 
 		};
 		backpacks[] = {
