@@ -41,55 +41,63 @@ Forkortelser:
 - fuelEmpty 
 - STR_Item_FuelE
 - Tom benzin dunk, kan fyldes op.
-- Køb: -1 // Salg  
+- Køb: -1 // Salg 10 
 - Standart altis
 -----------------------
 
 - fuelFull
 - STR_Item_FuelF
 - Fuld benzin dunk.
+- Køb 850 // Salg 500
 - Standart altis
 -----------------------
 
 - spikeStrip
 - STR_Item_SpikeStrip
 - Til politiet.
+- Køb 2500 // Salg 500
 - Standart altis
 -----------------------
 
 - lockpick
 - STR_Item_Lockpick
 - Lockpick til rebel.
+- Køb 550 // 175 Salg
 - Standart altis
 -----------------------
 
 - blastingcharge
 - STR_Item_BCharge
 - Spræng stof.
+- Køb: 35.000 // salg 10000
 - Standart altis
 -----------------------
 
 - boltcutter
 - STR_Item_BCharge
 - Bolt saks, kan bruges til røve, banken.
+- Køb 7500 // 1000
 - Standart altis
 -----------------------
 
 - defusekit
 - STR_Item_DefuseKit
 - Kan bruges til at defuse spræng stoffer.
+- Køb 2500 // 2000
 - Standart altis
 -----------------------
 
 - storagesmall 
 - STR_Item_StorageBS
 - Kan bruges til at opbevar ting, kræver et hus.
+- køb 75.000 // salg 50.000
 - Standart altis
 -----------------------
 
 - storagebig
 - STR_Item_StorageBS
 - Kan bruges til at opbevar ting, kræver et hus.
+- Køb 150.000 // 125.000 
 - Standart altis
 ----------------------------------------------------------------------------------------------------------------------------------------
 
