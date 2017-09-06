@@ -586,8 +586,13 @@
 				side = "";
 				conditions = "";	
 				items[] = {
-				{ "muzzle_snds_L", "", 1000, 100, "" },
-				{ "FHQ_optic_AC11704", "", 1500, 150, "" }
+				{ "muzzle_snds_L", "", 250, 100, "" },
+				{ "RH_saker", "", 250, 100, "" },
+				{ "bipod_01_F_blk", "", 250, 100, "" },
+				{ "FHG_optic_ACOG", "", 250, 100, "" },
+				{ "muzzle_snds_M", "", 250, 100, "" },
+				{ "acc_pointer_IR", "", 250, 100, "" },
+				{ "FHQ_optic_AC11704", "", 350, 150, "" }
 				};
 				mags[] = {};
 				accs[] = {};
