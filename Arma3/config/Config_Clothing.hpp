@@ -394,7 +394,7 @@ Billig tøj shop civil starter her
         { "NONE", $STR_C_Remove_headgear, 0, "" },
         { "H_Cap_police", "", 25, "call life_coplevel >= 1" },
         { "H_HelmetB", "", 25, "call life_coplevel >= 4" },
-        { "H_Beret_blk_POLICE", "", 25, "call life_coplevel >= 5" }
+        { "H_Beret_blk_POLICE", "", 25, "call life_coplevel >= 4" }
         };
 	    
         goggles[] = {
