@@ -586,12 +586,6 @@
 				side = "";
 				conditions = "";	
 				items[] = {
-				{ "Binocular", "", 750, 75, "" },
-				{ "ItemGPS", "", 500, 50, "" },
-				{ "ItemMap", "", 250, 25, "" },
-				{ "ItemCompass", "", 250, 25, "" },
-				{ "ItemWatch", "", 250, 25, "" },
-				{ "FirstAidKit", "", 750, 75, "" },
 				{ "muzzle_snds_L", "", 1000, 100, "" },
 				{ "FHQ_optic_AC11704", "", 1500, 150, "" }
 				};
