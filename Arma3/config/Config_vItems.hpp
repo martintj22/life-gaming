@@ -884,9 +884,9 @@ class VirtualItems {
         icon = "icons\Silver.paa";
     };
 	
-      class Metamorfe {
-        variable = "Metamorfe";
-        displayName = "STR_Item_Metamorfe";
+      class zink {
+        variable = "zink";
+        displayName = "STR_Item_zink";
         weight = 2000;
         buyPrice = 175;
         sellPrice = 135;
