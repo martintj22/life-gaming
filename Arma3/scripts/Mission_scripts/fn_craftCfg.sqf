@@ -6,9 +6,8 @@
  Master configuration file for the crafting menu.
  */private["_craft","_return"];_craft = [_this,0,"",[""]] call BIS_fnc_param;if(_craft == "") exitWith {closeDialog 0}; 
  //Bad shop type passed.switch(_craft) 
- do
- {    
- case "weapon":    {   _return = [  [Object classname, [item #1,quantity item #1,item #2,quantity item #2]],]        
+ 
+ do { case "weapon":  {  _return = [  [Object classname, [item #1,quantity item #1,item #2,quantity item #2]],]        
  ["hgun_P07_F", ["life_inv_goldbar",2,"life_inv_copperr",1]];      
  
  [Object classname, [item #1,quantity item #1,item #2,quantity item #2]],]  
