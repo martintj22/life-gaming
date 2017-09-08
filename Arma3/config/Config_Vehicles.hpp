@@ -231,10 +231,12 @@
 		side = "cop";
 		conditions = "";
 		vehicles[] = {
-		{ "ivory_isf_marked", "call life_coplevel >= 0" },
-		{ "ivory_wrx_marked", "call life_coplevel >= 1" },
-		{ "tw_durango_marked", "call life_coplevel >= 4" },
-		{ "ivory_m3_marked", "call life_coplevel >= 4" },
+		{ "tw_raptor_marked", "call life_coplevel >= 1" },
+		{ "tw_raptor_unmarked", "call life_coplevel >= 1" },
+		{ "tw_durango_marked", "call life_coplevel >= 1" },
+		{ "tw_raptor_slicktop", "call life_coplevel >= 1" },
+		{ "tw_vic_marked", "call life_coplevel >= 1" },
+		{ "tw_vic_slicktop", "call life_coplevel >= 1" },
 		{ "tw_vic_unmarked", "call life_coplevel >= 1" }
 		};
 		};
