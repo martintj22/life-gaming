@@ -416,9 +416,11 @@
 				{ "HandGrenade_Stone", $STR_W_items_Flashbang, 100, 50, "" },
 				{ "SmokeShell", "", 100, 50, "" },
 				{ "RH_M4A6", "", 100, 50, "" },
+				{ "RH_Mk11", "", 100, 50, "" },
 				{ "RH_M4_ris", "", 500, 250, "" }
 				};
 				mags[] = {
+				{ "RH_20Rnd_762x51_Mk316LR", "", 100, 50, "" },
 				{ "RH_30Rnd_556x45_Mk318", "", 100, 50, "" },
 				{ "RH_30Rnd_68x43_Match", "", 100, 50, "" }
 				};
@@ -437,31 +439,16 @@
 				conditions = "license_cop_undercover";
 				items[] = {
 				{ "Binocular", "", 25, 20, "" },
-				{ "hgun_ACPC2_F", "", 150, 500, "" },
 				{ "ItemGPS", "", 75, 50, "" },
 				{ "FirstAidKit", "", 100, 55, "" },
 				{ "pmc_earpiece", "", 100, 50, "" },
+				{ "arifle_SPAR_01_blk_F", "", 100, 50, "" },
 				{ "HandGrenade_Stone", $STR_W_items_Flashbang, 100, 50, "" },
-				{ "hgun_P07_snds_F", $STR_W_items_StunPistol, 500, 200, "" },
-				{ "hgun_P07_F", "", 500, 250, "" },
-				{ "hgun_P07_khk_F", "", 500, 250, "" }, //Apex DLC
-				{ "SMG_02_F", "", 500, 250, "" },
-				{ "arifle_Katiba_F", "", 500, 250, "" }, //arifle_Mk20C_F
-				{ "arifle_MX_F", "", 500, 250, "" }
+				{ "RH_kimber_nw", "", 500, 250, "" }
 				};
 				mags[] = {
-				{ "16Rnd_9x21_Mag", "", 125, 60, "" },
-				{ "20Rnd_556x45_UW_mag", $STR_W_mags_TaserRifle, 125, 60, "" },
-				{ "11Rnd_45ACP_Mag", "", 130, 65, "" },
-				{ "30Rnd_65x39_caseless_mag", "", 130, 65, "" },
-				{ "30Rnd_9x21_Mag", "", 250, 125, "" },
-				{ "30Rnd_9x21_Mag_SMG_02", "", 250, 125, "" },
-				{ "30Rnd_65x39_caseless_green", "", 250, 125, "" },
-				{ "9Rnd_45ACP_Mag", "", 200, 100, "" },
-				{ "30Rnd_556x45_Stanag", "", 200, 100, "" },
-				{ "30Rnd_65x39_caseless_mag", "", 250, 125, "" },
-				{ "20Rnd_762x51_Mag", "", 100, 50, "" },
-				{ "20Rnd_650x39_Cased_Mag_F", "", 100, 50, "" }
+				{ "RH_7Rnd_45cal_m1911", "", 100, 50, "" },
+				{ "30Rnd_556x45_Stanag_red", "", 100, 50, "" }
 				};
 				accs[] = {
 				{ "muzzle_snds_L", "", 250, 100, "" },
@@ -592,6 +579,8 @@
 				{ "FHQ_optic_ACOG", "", 250, 100, "" },
 				{ "muzzle_snds_M", "", 250, 100, "" },
 				{ "acc_pointer_IR", "", 250, 100, "" },
+				{ "RH_leu_mk4", "", 250, 100, "" },
+				{ "RH_m110sd", "", 250, 100, "" },
 				{ "FHQ_optic_AC11704", "", 350, 150, "" }
 				};
 				mags[] = {};
