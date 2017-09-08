@@ -275,6 +275,20 @@
 		};
 		};
 
+
+
+
+ /* Shops slutter her */
+
+
+
+
+
+
+
+
+
+
 		class LifeCfgVehicles {
 		/*
 		*    Vehicle Configs (Contains textures and other stuff)
