@@ -3,17 +3,13 @@ Liste over ting der skal skinnes.
 
 CID_Vest_Fix // Politi vest, betjente kommer til at gå med. 
 
-tw_durango_marked // Politi bil
-
 tw_durango_unmarked // Males sort
 
 tw_durango_slicktop // Swat bil
 
-tw_ram_marked // Politi bil
+tw_ram_marked // Politi bil laves lidt om lakeside til altis
 
 tw_ram_unmarked // Males sort
-
-tw_ram_slicktop // Politi bil
 
 tw_van_marked // Swat bil + Fix af pinke sidespejle
 
@@ -22,10 +18,6 @@ tw_vic_ems // Læge bil
 tw_raptor_ems // Læge bil
 
 A3L_POLB // Politi Helicopter
-
-tw_explorer_slicktop // Swat bil
-
-tw_explorer_marked // Politi bil
 
 tw_explorer_unmarked // Males sort
 
