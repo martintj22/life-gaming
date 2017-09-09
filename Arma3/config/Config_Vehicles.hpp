@@ -237,6 +237,16 @@
 		{ "tw_raptor_slicktop", "call life_coplevel >= 1" },
 		{ "tw_vic_marked", "call life_coplevel >= 1" },
 		{ "tw_vic_slicktop", "call life_coplevel >= 1" },
+		{ "tw_van_marked", "call life_coplevel >= 1" },
+		{ "tw_durango_unmarked", "call life_coplevel >= 1" },
+		{ "tw_durango_slicktop", "call life_coplevel >= 1" },
+	        { "tw_ram_marked", "call life_coplevel >= 1" },
+		{ "tw_ram_unmarked", "call life_coplevel >= 1" },
+		{ "tw_ram_slicktop", "call life_coplevel >= 1" },
+		{ "tw_explorer_slicktop", "call life_coplevel >= 1" },
+		{ "tw_explorer_marked", "call life_coplevel >= 1" },
+		{ "tw_explorer_unmarked", "call life_coplevel >= 1" },
+		{ "DAR_SWATPolice", "call life_coplevel >= 1" },
 		{ "tw_vic_unmarked", "call life_coplevel >= 1" }
 		};
 		};
