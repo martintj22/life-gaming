@@ -1,4 +1,4 @@
-_type = typeOf _towing;
+<_type = typeOf _towing;
 switch (_type) do
 	{
 		case "Jonzie_Datsun_Z432": {_height = _height + 0.4;_distance = _distance -5.5;};		
@@ -45,9 +45,9 @@ switch (_type) do
 		case "I_MRAP_03_F": {_height = _height + 0.55;_distance = _distance -5.5;};
 		case "I_MRAP_03_gmg_F": {_height = _height + 0.55;_distance = _distance -5.5;};
 		case "I_MRAP_03_hmg_F": {_height = _height + 0.55;_distance = _distance -5.5;};
-	        case "tw_raptor_marked": {_height = _height -0.59;_distance = _distance -5.5;};
+	        case "tw_raptor_marked": {_height = _height + 0.59;_distance = _distance -5.5;};
 		case "C_SUV_01_F": {_height = _height + 0.35;_distance = _distance -5.5;};
-		case "tw_explorer_marked": {_height = _height + 0.35;_distance = _distance -5.5;};
+		case "tw_explorer_marked": {_height = _height -0.35;_distance = _distance -5.5;};
 		case "C_Van_01_transport_F": {_height = _height + 0.6;_distance = _distance -5.5;};	
 		case "B_G_Van_01_transport_F": {_height = _height + 0.6;_distance = _distance -5.5;};	
 		case "C_Van_01_box_F": {_height = _height + 0.6;_distance = _distance -5.5;};																					
