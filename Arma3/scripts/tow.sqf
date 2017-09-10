@@ -44,8 +44,10 @@ switch (_type) do
 		case "B_Quadbike_01_F": {_height = _height + 0.3;_distance = _distance -5.5;};
 		case "I_MRAP_03_F": {_height = _height + 0.55;_distance = _distance -5.5;};
 		case "I_MRAP_03_gmg_F": {_height = _height + 0.55;_distance = _distance -5.5;};
-		case "I_MRAP_03_hmg_F": {_height = _height + 0.55;_distance = _distance -5.5;};	
-		case "C_SUV_01_F": {_height = _height + 0.35;_distance = _distance -5.5;};	
+		case "I_MRAP_03_hmg_F": {_height = _height + 0.55;_distance = _distance -5.5;};
+	        case "tw_raptor_marked": {_height = _height -0.59;_distance = _distance -5.5;};
+		case "C_SUV_01_F": {_height = _height + 0.35;_distance = _distance -5.5;};
+		case "tw_explorer_marked": {_height = _height + 0.35;_distance = _distance -5.5;};
 		case "C_Van_01_transport_F": {_height = _height + 0.6;_distance = _distance -5.5;};	
 		case "B_G_Van_01_transport_F": {_height = _height + 0.6;_distance = _distance -5.5;};	
 		case "C_Van_01_box_F": {_height = _height + 0.6;_distance = _distance -5.5;};																					
